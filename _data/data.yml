@@ -39,14 +39,12 @@ sidebar:
           level: Fluent
 
 career-profile:
-    title: Career Profile
+    title: About
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hello!
+      I am **Soyeong Jeong**, a Ph.D. student at the Natural Language Processing and Computational Linguistics Laboratory (NLPCL) Lab at KAIST.
+      My research interests are mainly on information retrieval for solving open domain language tasks and interpretation of large language models for making them interpretable when deployed on real-world applications. Not limited to, I am interested in broad topics on natural language understanding.
+
 education:
     title: Education
     info:
