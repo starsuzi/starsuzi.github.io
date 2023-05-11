@@ -154,7 +154,7 @@ oss:
 publications:
     title: Publications
     intro: |
-      My selected publications are as follows (See more in my <a href="https://starsuzi.github.io/assets/CV.pdf">CV (Curriculum Vitae)</a>):
+      My selected publications are as follows (See more in my <a href="https://starsuzi.github.io/assets/CV.pdf">CV</a>):
     papers:
       - title: Phrase Retrieval for Open Domain Conversational Question Answering with Conversational Dependency Modeling via Contrastive Learning
         link: "#"
