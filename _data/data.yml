@@ -161,37 +161,37 @@ publications:
       - title: Phrase Retrieval for Open Domain Conversational Question Answering with Conversational Dependency Modeling via Contrastive Learning
         link: "#"
         authors: <b>Soyeong Jeong</b>, Jinheon Baek, Sung Ju Hwang, Jong C. Park
-        conference: "Findings of Association for Computational Linguistics <b>(Findings of ACL)</b>, 2023."
+        conference: "Findings of Association for Computational Linguistics <b>(Findings of ACL), 2023.</b>"
 
       - title: Discrete Prompt Optimization via Constrained Generation for Zero-shot Re-ranker
         link: "#"
         authors: Sukmin Cho, <b>Soyeong Jeong</b>, Jeong yeon Seo, Jong C. Park
-        conference: "Findings of Association for Computational Linguistics <b>(Findings of ACL)</b>, 2023."
+        conference: "Findings of Association for Computational Linguistics <b>(Findings of ACL), 2023.</b>"
 
       - title: Selecting Answers for Realistic Conversational Question Answering based on Calibrated Confidence and Uncertainty Measurement
         link: "https://aclanthology.org/2023.eacl-main.35.pdf"
         authors: <b>Soyeong Jeong</b>, Jinheon Baek, Sung Ju Hwang, Jong C. Park
-        conference: "European Chapter of the Association for Computational Linguistics <b>(EACL)</b>, 2023."
+        conference: "European Chapter of the Association for Computational Linguistics <b>(EACL), 2023.</b>"
         
       - title: Augmenting Document Representations for Dense Retrieval with Interpolation and Perturbation
         link: "https://aclanthology.org/2022.acl-short.48.pdf"
         authors: <b>Soyeong Jeong</b>, Jinheon Baek, Sukmin Cho, Sung Ju Hwang, Jong C. Park
-        conference: "Association for Computational Linguistics <b>(ACL)</b>, 2022. <b>(Oral)</b>"
+        conference: "Association for Computational Linguistics <b>(ACL), 2022. (Oral)</b>"
        
       - title: Query Generation with External Knowledge for Dense Retrieval
         link: "https://aclanthology.org/2022.deelio-1.3.pdf"
         authors: Sukmin Cho, <b>Soyeong Jeong</b>, Wonsuk Yang, Jong C. Park
-        conference: "Deep Learning Inside Out at Association for Computational Linguistics <b>(DeeLIO@ACL)</b>, 2022."
+        conference: "Deep Learning Inside Out at Association for Computational Linguistics <b>(DeeLIO@ACL), 2022.</b>"
         
       - title: Unsupervised Document Expansion for Information Retrieval with Stochastic Text Generation
         link: "https://aclanthology.org/2021.sdp-1.2.pdf"
         authors: <b>Soyeong Jeong</b>, Jinheon Baek, ChaeHun Park, Jong C. Park
-        conference: "Scholarly Document Processing at Conference of the North American Chapter of the Association for Computational Linguistics <b>(SDP@NAACL)</b>, 2021. <b>(Oral)</b>"
+        conference: "Scholarly Document Processing at Conference of the North American Chapter of the Association for Computational Linguistics <b>(SDP@NAACL), 2021. (Oral)</b>"
         
       - title: Development of Speech Emotion Recognition Algorithm using MFCC and Prosody
         link: "https://ieeexplore.ieee.org/document/9051281"
         authors: Hyejin Koo, <b>Soyeong Jeong</b>, Sungjae Yoon, Wonjong Kim
-        conference: "International Conference on Electronics, Information, and Communication <b>(ICEIC)</b>, 2020."
+        conference: "International Conference on Electronics, Information, and Communication <b>(ICEIC), 2020.</b>"
 
 skills:
     title: Skills &amp; Proficiency
