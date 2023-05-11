@@ -42,8 +42,8 @@ career-profile:
     title: About
     summary: |
       Hello!
-      I am **Soyeong Jeong**, a Ph.D. student at the Natural Language Processing and Computational Linguistics Laboratory (NLPCL) Lab at KAIST.
-      My research interests are mainly on information retrieval for solving open domain language tasks and interpretation of large language models for making them interpretable when deployed on real-world applications. Not limited to, I am interested in broad topics on natural language understanding.
+      I am Soyeong Jeong, a **Ph.D. student** at the Natural Language Processing and Computational Linguistics Laboratory (NLPCL) Lab at KAIST.
+      My research interests are mainly on **information retrieval** for solving **open domain language tasks** and interpretation of **large language models** for making them interpretable when deployed on real-world applications. Not limited to, I am interested in broad topics on natural language understanding.
 
 publications:
     title: Publications
