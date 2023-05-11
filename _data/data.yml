@@ -14,10 +14,10 @@ sidebar:
     # Sidebar links
     email: starsuzi[at]kaist[dot]ac[dot]kr
     phone: # 012 345 6789
-    timezone: KST
+    timezone: #KST
     citizenship:
     website: # blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    linkedin: starsuzi
     xing: #alandoe
     github: starsuzi
     telegram: # add your nickname without '@' sign
@@ -32,26 +32,11 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Korean
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+        - idiom: English
+          level: Fluent
 
 career-profile:
     title: Career Profile
