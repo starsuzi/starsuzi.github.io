@@ -52,15 +52,15 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: Phrase Retrieval for Open Domain Conversational Question Answering with Conversational Dependency Modeling via Contrastive Learning
+      - title: "Phrase Retrieval for Open Domain Conversational Question Answering with Conversational Dependency Modeling via Contrastive Learning"
         link: "#"
         authors: **Soyeong Jeong**, Jinheon Baek, Sung Ju Hwang, Jong C. Park
-        conference: Findings of Association for Computational Linguistics **(Findings of ACL)**, 2023.
+        conference: "Findings of Association for Computational Linguistics **(Findings of ACL)**, 2023."
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Discrete Prompt Optimization via Constrained Generation for Zero-shot Re-ranker"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Sukmin Cho, **Soyeong Jeong**, Jeong yeon Seo, Jong C. Park
+        conference: "Findings of Association for Computational Linguistics **(Findings of ACL)**, 2023."
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
