@@ -48,14 +48,15 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Ph.D. Student
-        university: Korea Advanced Institute of Science and Technology (KAIST)
+      - degree: Korea Advanced Institute of Science and Technology (KAIST)
+        university: Ph.D. Student
         time: Mar. 2022 - current
         details: |
-          School of Computing (Advisor: Jong Cheol Park)
+          - School of Computing (Advisor: Jong Cheol Park)
+          
       
-      - degree: M.S.
-        university: Korea Advanced Institute of Science and Technology (KAIST)
+      - degree: Korea Advanced Institute of Science and Technology (KAIST)
+        university: M.S.
         time: Mar. 2020 - Feb. 2022
         details: |
           School of Computing (Advisor: Jong Cheol Park)
@@ -67,6 +68,11 @@ education:
           - Computer Science and Engineering (Graduated with Honor)
           - Software Technology and Enterprise Program (Interdisciplinary Program)
           
+      - degree: M.S.
+        university: Anyang Foreign Language High School
+        time: Mar. 2013 - Feb. 2016
+        details: |
+          Major in English
           
 experiences:
     title: Experiences
