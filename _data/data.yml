@@ -160,7 +160,7 @@ publications:
     papers:
       - title: Phrase Retrieval for Open Domain Conversational Question Answering with Conversational Dependency Modeling via Contrastive Learning
         link: "#"
-        authors: **Soyeong Jeong**, Jinheon Baek, Sung Ju Hwang, Jong C. Park
+        authors: Soyeong Jeong, Jinheon Baek, Sung Ju Hwang, Jong C. Park
         conference: "Findings of Association for Computational Linguistics (Findings of ACL), 2023."
 
       - title: Discrete Prompt Optimization via Constrained Generation for Zero-shot Re-ranker
@@ -168,10 +168,15 @@ publications:
         authors: Sukmin Cho, Soyeong Jeong, Jeong yeon Seo, Jong C. Park
         conference: "Findings of Association for Computational Linguistics Findings of ACL), 2023."
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Selecting Answers for Realistic Conversational Question Answering based on Calibrated Confidence and Uncertainty Measurement
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Soyeong Jeong, Jinheon Baek, Sung Ju Hwang, Jong C. Park
+        conference: "European Chapter of the Association for Computational Linguistics (EACL), 2023."
+        
+      - title: Augmenting Document Representations for Dense Retrieval with Interpolation and Perturbation
+        link: "#"
+        authors: Soyeong Jeong, Jinheon Baek, Sukmin Cho, Sung Ju Hwang, Jong C. Park
+        conference: "Association for Computational Linguistics (ACL), 2022."
 
 skills:
     title: Skills &amp; Proficiency
