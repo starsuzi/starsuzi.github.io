@@ -45,26 +45,6 @@ career-profile:
       I am Soyeong Jeong, a **Ph.D. student** at the Natural Language Processing and Computational Linguistics Laboratory (NLPCL) Lab at KAIST.
       My research interests are mainly on **information retrieval** for solving **open domain language tasks** and interpretation of **large language models** for making them interpretable when deployed on real-world applications. Not limited to, I am interested in broad topics on natural language understanding.
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    papers:
-      - title: Phrase Retrieval for Open Domain Conversational Question Answering with Conversational Dependency Modeling via Contrastive Learning
-        link: "#"
-        authors: **Soyeong Jeong**, Jinheon Baek, Sung Ju Hwang, Jong C. Park
-        conference: "Findings of Association for Computational Linguistics **(Findings of ACL)**, 2023."
-
-      - title: Discrete Prompt Optimization via Constrained Generation for Zero-shot Re-ranker
-        link: "#"
-        authors: Sukmin Cho, **Soyeong Jeong**, Jeong yeon Seo, Jong C. Park
-        conference: "Findings of Association for Computational Linguistics **(Findings of ACL)**, 2023."
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 education:
     title: Education
     info:
@@ -176,7 +156,25 @@ oss:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    papers:
+      - title: Phrase Retrieval for Open Domain Conversational Question Answering with Conversational Dependency Modeling via Contrastive Learning
+        link: "#"
+        authors: **Soyeong Jeong**, Jinheon Baek, Sung Ju Hwang, Jong C. Park
+        conference: "Findings of Association for Computational Linguistics **(Findings of ACL)**, 2023."
 
+      - title: Discrete Prompt Optimization via Constrained Generation for Zero-shot Re-ranker
+        link: "#"
+        authors: Sukmin Cho, **Soyeong Jeong**, Jeong yeon Seo, Jong C. Park
+        conference: "Findings of Association for Computational Linguistics **(Findings of ACL)**, 2023."
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
