@@ -4,7 +4,7 @@
 title: Soyeong Jeong
 url: 'http://webjeda.com'
 
-#change it according to your repository name
+# change it according to your repository name
 # disabling since we are using a custom domain
 baseurl: '' 
 
