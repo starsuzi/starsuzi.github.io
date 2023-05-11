@@ -169,7 +169,7 @@ publications:
         conference: "Findings of Association for Computational Linguistics Findings of ACL), 2023."
 
       - title: Selecting Answers for Realistic Conversational Question Answering based on Calibrated Confidence and Uncertainty Measurement
-        link: "#"
+        link: "https://aclanthology.org/2023.eacl-main.35.pdf"
         authors: Soyeong Jeong, Jinheon Baek, Sung Ju Hwang, Jong C. Park
         conference: "European Chapter of the Association for Computational Linguistics (EACL), 2023."
         
@@ -190,7 +190,7 @@ publications:
         
       - title: Development of Speech Emotion Recognition Algorithm using MFCC and Prosody
         link: "#"
-        authors: SHyejin Koo, Soyeong Jeong, Sungjae Yoon, Wonjong Kim
+        authors: Hyejin Koo, Soyeong Jeong, Sungjae Yoon, Wonjong Kim
         conference: "International Conference on Electronics, Information, and Communication (ICEIC), 2020."
 
 skills:
