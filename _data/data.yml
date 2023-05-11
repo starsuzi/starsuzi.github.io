@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Soyeong Jeong
-    tagline: NLP Researcher at KAIST #| Ph.D. student at KAIST
+    tagline: NLP Researcher at KAIST
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -48,6 +48,12 @@ career-profile:
 education:
     title: Education
     info:
+    - degree: Ph.D. Student
+        university: Korea Advanced Institute of Science and Technology (KAIST)
+        time: March 2022 - current
+        details: | 
+          School of Computing (Advisor: Jong Cheol Park)
+          
     - degree: BSc in Applied Mathematics
         university: Bristol University
         time: 2007 - 2011
