@@ -177,6 +177,12 @@ publications:
         link: "#"
         authors: Soyeong Jeong, Jinheon Baek, Sukmin Cho, Sung Ju Hwang, Jong C. Park
         conference: "Association for Computational Linguistics (ACL), 2022."
+       
+      - title: Query Generation with External Knowledge for Dense Retrieval
+        link: "#"
+        authors: Sukmin Cho, Soyeong Jeong, Wonsuk Yang, Jong C. Park
+        conference: "Deep Learning Inside Out at Association for Computational Linguistics (DeeLIO@ACL), 2022."
+        
 
 skills:
     title: Skills &amp; Proficiency
