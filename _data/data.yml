@@ -52,10 +52,10 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: Phrase Retrieval for Open Domain Conversational Question Answering with Conversational Dependency Modeling via Contrastive Learning
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: **Soyeong Jeong**, Jinheon Baek, Sung Ju Hwang, Jong C. Park
+        conference: Findings of Association for Computational Linguistics **(Findings of ACL)**, 2023.
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
