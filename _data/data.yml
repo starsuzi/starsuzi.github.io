@@ -51,7 +51,8 @@ education:
       - degree: Ph.D. in School of Computing
         university: Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea
         time: March 2022 - current
-        details: Advisor: Jong Cheol Park
+        details: | 
+        Advisor: Jong Cheol Park
 
     - degree: BSc in Applied Mathematics
         university: Bristol University
