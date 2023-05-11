@@ -48,12 +48,6 @@ career-profile:
 education:
     title: Education
     info:
-    - degree: Ph.D. Student
-        university: Korea Advanced Institute of Science and Technology (KAIST)
-        time: March 2022 - current
-        details: | 
-          School of Computing (Advisor: Jong Cheol Park)
-
     - degree: BSc in Applied Mathematics
         university: Bristol University
         time: 2007 - 2011
