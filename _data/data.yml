@@ -176,13 +176,22 @@ publications:
       - title: Augmenting Document Representations for Dense Retrieval with Interpolation and Perturbation
         link: "#"
         authors: Soyeong Jeong, Jinheon Baek, Sukmin Cho, Sung Ju Hwang, Jong C. Park
-        conference: "Association for Computational Linguistics (ACL), 2022."
+        conference: "Association for Computational Linguistics (ACL), 2022. (Oral)"
        
       - title: Query Generation with External Knowledge for Dense Retrieval
         link: "#"
         authors: Sukmin Cho, Soyeong Jeong, Wonsuk Yang, Jong C. Park
         conference: "Deep Learning Inside Out at Association for Computational Linguistics (DeeLIO@ACL), 2022."
         
+      - title: Unsupervised Document Expansion for Information Retrieval with Stochastic Text Generation
+        link: "#"
+        authors: Soyeong Jeong, Jinheon Baek, ChaeHun Park, Jong C. Park
+        conference: "Scholarly Document Processing at Conference of the North American Chapter of the Association for Computational Linguistics (SDP@NAACL), 2021. (Oral)"
+        
+      - title: Development of Speech Emotion Recognition Algorithm using MFCC and Prosody
+        link: "#"
+        authors: SHyejin Koo, Soyeong Jeong, Sungjae Yoon, Wonjong Kim
+        conference: "International Conference on Electronics, Information, and Communication (ICEIC), 2020."
 
 skills:
     title: Skills &amp; Proficiency
