@@ -48,7 +48,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Ph.D. in School of Computing
+    - degree: Ph.D. in School of Computing
         university: Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea
         time: March 2022 - current
         details: | 
