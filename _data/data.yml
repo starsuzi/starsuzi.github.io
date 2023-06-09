@@ -162,7 +162,7 @@ publications:
       My **selected publications** are as follows (See more in my <a href="https://starsuzi.github.io/assets/CV.pdf">CV</a>):
     papers:
       - title: Phrase Retrieval for Open Domain Conversational Question Answering with Conversational Dependency Modeling via Contrastive Learning
-        link: "#"
+        link: "https://arxiv.org/pdf/2306.04293.pdf"
         authors: <b>Soyeong Jeong</b>, Jinheon Baek, Sung Ju Hwang, Jong C. Park
         conference: "Findings of Association for Computational Linguistics <b>(Findings of ACL), 2023.</b>"
 
