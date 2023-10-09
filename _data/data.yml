@@ -161,15 +161,31 @@ publications:
     intro: |
       My **selected publications** are as follows (See more in my <a href="https://starsuzi.github.io/assets/CV.pdf">CV</a>):
     papers:
+    
+      - title: Test-Time Self-Adaptive Small Language Models for Question Answering 
+        link: "#"
+        authors: <b>Soyeong Jeong<\b>, Jinheon Baek, Sukmin Cho, Sung Ju Hwang, and Jong C. Park
+        conference: "Findings of the Empirical Methods in Natural Language Processing <b>(Findings of EMNLP)<\b>, 2023"
+
+      - title: Learning to Verify Knowledge-Augmented Language Models
+        link: "#"
+        authors:  Jinheon Baek, <b>Soyeong Jeong<\b>, Minki Kang, Jong C. Park, and Sung Ju Hwang
+        conference: "Empirical Methods in Natural Language Processing <b>(EMNLP)<\b>, 2023"
+        
+      - title: Alleviating Hallucination in Large Language Models as Zero-shot Reader for Open-Domain Question Answering 
+        link: "#"
+        authors: Sukmin Cho, Jeongyeon Seo, <b>Soyeong Jeong<\b>, Jong C. Park
+        conference: "Findings of the Empirical Methods in Natural Language Processing <b>(Findings of EMNLP)<\b>, 2023"
+    
       - title: Phrase Retrieval for Open Domain Conversational Question Answering with Conversational Dependency Modeling via Contrastive Learning
         link: "https://arxiv.org/pdf/2306.04293.pdf"
         authors: <b>Soyeong Jeong</b>, Jinheon Baek, Sung Ju Hwang, Jong C. Park
-        conference: "Findings of Association for Computational Linguistics <b>(Findings of ACL), 2023.</b>"
+        conference: "Findings of the Association for Computational Linguistics <b>(Findings of ACL), 2023.</b>"
 
       - title: Discrete Prompt Optimization via Constrained Generation for Zero-shot Re-ranker
         link: "https://arxiv.org/pdf/2305.13729v1.pdf"
-        authors: Sukmin Cho, <b>Soyeong Jeong</b>, Jeong yeon Seo, Jong C. Park
-        conference: "Findings of Association for Computational Linguistics <b>(Findings of ACL), 2023.</b>"
+        authors: Sukmin Cho, <b>Soyeong Jeong</b>, Jeongyeon Seo, Jong C. Park
+        conference: "Findings of the Association for Computational Linguistics <b>(Findings of ACL), 2023.</b>"
 
       - title: Realistic Conversational Question Answering with Answer Selection based on Calibrated Confidence and Uncertainty Measurement
         link: "https://aclanthology.org/2023.eacl-main.35.pdf"
