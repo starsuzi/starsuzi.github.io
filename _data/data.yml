@@ -164,17 +164,17 @@ publications:
     
       - title: Test-Time Self-Adaptive Small Language Models for Question Answering 
         link: "#"
-        authors: <b>Soyeong Jeong<\b>, Jinheon Baek, Sukmin Cho, Sung Ju Hwang, and Jong C. Park
+        authors: <b>Soyeong Jeong</b>, Jinheon Baek, Sukmin Cho, Sung Ju Hwang, and Jong C. Park
         conference: "Findings of the Empirical Methods in Natural Language Processing <b>(Findings of EMNLP), 2023.</b>"
 
       - title: Learning to Verify Knowledge-Augmented Language Models
         link: "#"
-        authors:  Jinheon Baek, <b>Soyeong Jeong<\b>, Minki Kang, Jong C. Park, and Sung Ju Hwang
+        authors:  Jinheon Baek, <b>Soyeong Jeong</b>, Minki Kang, Jong C. Park, and Sung Ju Hwang
         conference: "Empirical Methods in Natural Language Processing <b>(EMNLP), 2023.</b>"
         
       - title: Alleviating Hallucination in Large Language Models as Zero-shot Reader for Open-Domain Question Answering 
         link: "#"
-        authors: Sukmin Cho, Jeongyeon Seo, <b>Soyeong Jeong<\b>, Jong C. Park
+        authors: Sukmin Cho, Jeongyeon Seo, <b>Soyeong Jeong</b>, Jong C. Park
         conference: "Findings of the Empirical Methods in Natural Language Processing <b>(Findings of EMNLP), 2023.</b>"
     
       - title: Phrase Retrieval for Open Domain Conversational Question Answering with Conversational Dependency Modeling via Contrastive Learning
