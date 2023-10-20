@@ -168,7 +168,7 @@ publications:
         conference: "Findings of the Empirical Methods in Natural Language Processing <b>(Findings of EMNLP), 2023.</b>"
 
       - title: Knowledge-Augmented Language Model Verification
-        link: "#"
+        link: "https://arxiv.org/pdf/2310.12836.pdf"
         authors:  Jinheon Baek, <b>Soyeong Jeong</b>, Minki Kang, Jong C. Park, and Sung Ju Hwang
         conference: "Empirical Methods in Natural Language Processing <b>(EMNLP), 2023.</b>"
         
