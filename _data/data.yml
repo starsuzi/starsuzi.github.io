@@ -163,7 +163,7 @@ publications:
     papers:
     
       - title: Test-Time Self-Adaptive Small Language Models for Question Answering 
-        link: "#"
+        link: "https://arxiv.org/pdf/2310.13307.pdf"
         authors: <b>Soyeong Jeong</b>, Jinheon Baek, Sukmin Cho, Sung Ju Hwang, and Jong C. Park
         conference: "Findings of the Empirical Methods in Natural Language Processing <b>(Findings of EMNLP), 2023.</b>"
 
