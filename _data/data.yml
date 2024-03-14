@@ -163,9 +163,9 @@ publications:
     papers:
     
       - title: Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity
-        link: ""
+        link: "#"
         authors: <b>Soyeong Jeong</b>, Jinheon Baek, Sukmin Cho, Sung Ju Hwang, and Jong C. Park
-        conference: "Conference of the North American Chapter of the Association for Computational Linguistics <b>(NAACL), 2024.</b>"
+        conference: "North American Chapter of the Association for Computational Linguistics <b>(NAACL), 2024.</b>"
     
       - title: Test-Time Self-Adaptive Small Language Models for Question Answering 
         link: "https://arxiv.org/pdf/2310.13307.pdf"
