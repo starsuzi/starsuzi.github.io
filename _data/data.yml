@@ -162,7 +162,7 @@ publications:
       My **selected publications** are as follows (See more in my <a href="https://starsuzi.github.io/assets/CV.pdf">CV</a>):
     papers:
       - title: 'Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity' 
-        link: "#"
+        link: "https://arxiv.org/pdf/2403.14403.pdf"
         authors: <b>Soyeong Jeong</b>, Jinheon Baek, Sukmin Cho, Sung Ju Hwang, and Jong C. Park
         conference: "North American Chapter of the Association for Computational Linguistics <b>(NAACL), 2024.</b>"
         
