@@ -161,10 +161,11 @@ publications:
     intro: |
       My **selected publications** are as follows (See more in my <a href="https://starsuzi.github.io/assets/CV.pdf">CV</a>):
     papers:
-      - title: Typos that Broke the RAG"'"s Back: Genetic Attack on RAG Pipeline by Simulating Documents in the Wild via Low-level Perturbations
+      - title: "Typos that Broke the RAG's Back: Genetic Attack on RAG Pipeline by Simulating Documents in the Wild via Low-level Perturbations"
         link: "https://arxiv.org/pdf/2404.13948.pdf"
-        authors: Sukmin Cho, <b>Soyeong Jeong</b>, Jeongyeon Seo, Taeho Hwang, and Jong C. Park
+        authors: "Sukmin Cho, <b>Soyeong Jeong</b>, Jeongyeon Seo, Taeho Hwang, and Jong C. Park"
         conference: "arXiv preprint"
+
 
       - title: 'Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity' 
         link: "https://arxiv.org/pdf/2403.14403.pdf"
