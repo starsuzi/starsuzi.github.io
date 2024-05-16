@@ -166,6 +166,10 @@ publications:
         authors: "Sukmin Cho, <b>Soyeong Jeong</b>, Jeongyeon Seo, Taeho Hwang, and Jong C. Park"
         conference: "arXiv preprint"
 
+      - title: 'Ask LLMs Directly, "What shapes your bias?": Measuring Social Bias in Large Language Models' 
+        link: "#"
+        authors: Jisu Shin, Hoyun Song, Huije Lee, <b>Soyeong Jeong</b>, and Jong C. Park
+        conference: "Findings of the Association for Computational Linguistics <b>(Findings of ACL), 2024.</b>"
 
       - title: 'Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity' 
         link: "https://arxiv.org/pdf/2403.14403.pdf"
