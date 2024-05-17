@@ -167,7 +167,7 @@ publications:
         conference: "arXiv preprint"
 
       - title: 'Ask LLMs Directly, "What shapes your bias?": Measuring Social Bias in Large Language Models' 
-        link: "#"
+        link: "https://openreview.net/pdf?id=PxK8YJVMGla"
         authors: Jisu Shin, Hoyun Song, Huije Lee, <b>Soyeong Jeong</b>, and Jong C. Park
         conference: "Findings of the Association for Computational Linguistics <b>(Findings of ACL), 2024.</b>"
 
