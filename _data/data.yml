@@ -172,6 +172,11 @@ publications:
         authors: Sukmin Cho, <b>Soyeong Jeong</b>, Jeongyeon Seo, Taeho Hwang, and Jong C. Park
         conference: "arXiv preprint"
 
+      - title: 'DSLR: Document Refinement with Sentence-Level Re-ranking and Reconstruction to Enhance Retrieval-Augmented Generation' 
+        link: "#"
+        authors: Taeho Hwang, <b>Soyeong Jeong</b>, Sukmin Cho, SeungYoon Han, and Jong C. Park
+        conference: "Knowledge Augmented Methods for NLP at Association for Computational Linguistics <b>(KnowledgeNLP@ACL), 2024.</b>"
+        
       - title: 'Ask LLMs Directly, "What shapes your bias?": Measuring Social Bias in Large Language Models' 
         link: "https://arxiv.org/pdf/2406.04064v1"
         authors: Jisu Shin, Hoyun Song, Huije Lee, <b>Soyeong Jeong</b>, and Jong C. Park
