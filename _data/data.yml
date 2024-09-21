@@ -139,7 +139,7 @@ publications:
       - title: "Typos that Broke the RAG's Back: Genetic Attack on RAG Pipeline by Simulating Documents in the Wild via Low-level Perturbations"
         link: "https://arxiv.org/pdf/2404.13948.pdf"
         authors: Sukmin Cho, <b>Soyeong Jeong</b>, Jeongyeon Seo, Taeho Hwang, and Jong C. Park
-        conference: "arXiv preprint"
+        conference: "Findings of the Empirical Methods in Natural Language Processing <b>(Findings of EMNLP), 2024.</b>"
 
       - title: 'DSLR: Document Refinement with Sentence-Level Re-ranking and Reconstruction to Enhance Retrieval-Augmented Generation' 
         link: "#"
