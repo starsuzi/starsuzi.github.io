@@ -135,6 +135,11 @@ publications:
         link: "https://arxiv.org/pdf/2406.16013"
         authors: <b>Soyeong Jeong</b>, Jinheon Baek, Sukmin Cho, Sung Ju Hwang, and Jong C. Park
         conference: "arXiv preprint"
+
+      - title: "CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark"
+        link: "https://arxiv.org/pdf/2406.05967"
+        authors: David Romero, Chenyang Lyu, Haryo Akbarianto Wibowo, Teresa Lynn, Injy Hamed, Aditya Nanda Kishore, …, Jinheon Baek, …, <b>Soyeong Jeong</b>, …, Thamar Solorio, and Alham Fikri Aji
+        conference: "Neural Information Processing Systems Datasets and Benchmarks Track <b>(NeurIPS Datasets & Benchmarks), 2024. (Oral)</b>"
         
       - title: "Typos that Broke the RAG's Back: Genetic Attack on RAG Pipeline by Simulating Documents in the Wild via Low-level Perturbations"
         link: "https://arxiv.org/pdf/2404.13948.pdf"
