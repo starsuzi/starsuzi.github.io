@@ -131,10 +131,25 @@ publications:
       My **selected publications** are as follows (See more in my <a href="https://starsuzi.github.io/assets/CV.pdf">CV</a>):
     papers:
 
+      - title: "Adaptive Multi-Agent Response Refinement in Conversational Systems"
+        link: "#"
+        authors: <b>Soyeong Jeong</b>, Aparna Elangovan, Emine Yilmaz, and Oleg Rokhlenko
+        conference: "Under Review"
+
       - title: "Database-Augmented Query Representation for Information Retrieval"
         link: "https://arxiv.org/pdf/2406.16013"
         authors: <b>Soyeong Jeong</b>, Jinheon Baek, Sukmin Cho, Sung Ju Hwang, and Jong C. Park
-        conference: "arXiv preprint"
+        conference: "Under Review"
+
+      - title: "Unified Multi-Modal Interleaved Document Representation for Information Retrieval"
+        link: "https://arxiv.org/pdf/2410.02729"
+        authors: Jaewoo Lee, Joonho Ko, Jinheon Baek, <b>Soyeong Jeong</b>, and Sung Ju Hwang
+        conference: "Under Review"
+
+      - title: "Lossless Acceleration of Large Language Models with Hierarchical Drafting based on Temporal Locality in Speculative Decoding"
+        link: "#"
+        authors: Sukmin Cho, Sangjin Choi, Taeho Hwang, Jeongyeon Seo, <b>Soyeong Jeong</b>, Huije Lee, Hoyun Song, Jong C. Park, and Youngjin Kwon
+        conference: "Under Review"
 
       - title: "CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark"
         link: "https://arxiv.org/pdf/2406.05967"
@@ -234,5 +249,5 @@ skills:
         level: 60%
 
 footer: >
-    Last updated on Sep. 21, 2024 <i class="fas fa-heart"></i> Soyeong Jeong
+    Last updated on Nov. 19, 2024 <i class="fas fa-heart"></i> Soyeong Jeong
    # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
