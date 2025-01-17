@@ -131,6 +131,11 @@ publications:
       My **selected publications** are as follows (See more in my <a href="https://starsuzi.github.io/assets/CV.pdf">CV</a>):
     papers:
 
+      - title: "VideoRAG: Retrieval-Augmented Generation over Video Corpus"
+        link: "https://arxiv.org/pdf/2501.05874"
+        authors: <b>Soyeong Jeong</b>*, Kangsan Kim*, Jinheon Baek*, and Sung Ju Hwang
+        conference: "Under Review"
+
       - title: "Adaptive Multi-Agent Response Refinement in Conversational Systems"
         link: "#"
         authors: <b>Soyeong Jeong</b>, Aparna Elangovan, Emine Yilmaz, and Oleg Rokhlenko
@@ -144,6 +149,11 @@ publications:
       - title: "Unified Multi-Modal Interleaved Document Representation for Information Retrieval"
         link: "https://arxiv.org/pdf/2410.02729"
         authors: Jaewoo Lee, Joonho Ko, Jinheon Baek, <b>Soyeong Jeong</b>, and Sung Ju Hwang
+        conference: "Under Review"
+
+      - title: "EXIT: Context-Aware Extractive Compression for Enhancing Retrieval-Augmented Generation"
+        link: "https://arxiv.org/pdf/2412.12559"
+        authors: Taeho Hwang, Sukmin Cho, <b>Soyeong Jeong</b>, Hoyun Song, SeungYoon Han, and Jong C. Park
         conference: "Under Review"
 
       - title: "Lossless Acceleration of Large Language Models with Hierarchical Drafting based on Temporal Locality in Speculative Decoding"
