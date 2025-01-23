@@ -159,7 +159,7 @@ publications:
       - title: "Lossless Acceleration of Large Language Models with Hierarchical Drafting based on Temporal Locality in Speculative Decoding"
         link: "#"
         authors: Sukmin Cho, Sangjin Choi, Taeho Hwang, Jeongyeon Seo, <b>Soyeong Jeong</b>, Huije Lee, Hoyun Song, Jong C. Park, and Youngjin Kwon
-        conference: "Findings of Nations of the Americas Chapter of the Association for Computational Linguistics <b>(Findings of NAACL), 2025.</b>"
+        conference: "Findings of the Nations of the Americas Chapter of the Association for Computational Linguistics <b>(Findings of NAACL), 2025.</b>"
 
       - title: "CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark"
         link: "https://arxiv.org/pdf/2406.05967"
