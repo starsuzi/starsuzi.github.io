@@ -148,7 +148,7 @@ publications:
 
       - title: "Unified Multi-Modal Interleaved Document Representation for Information Retrieval"
         link: "https://arxiv.org/pdf/2410.02729"
-        authors: Jaewoo Lee, Joonho Ko, Jinheon Baek, <b>Soyeong Jeong</b>, and Sung Ju Hwang
+        authors: Jaewoo Lee*, Joonho Ko*, Jinheon Baek*, <b>Soyeong Jeong</b>, and Sung Ju Hwang
         conference: "Under Review"
 
       - title: "The RAG Paradox: A Black-Box Attack Exploiting Unintentional Vulnerabilities in Retrieval-Augmented Generation Systems"
