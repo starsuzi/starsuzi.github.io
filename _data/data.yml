@@ -130,12 +130,7 @@ publications:
     intro: |
       My **selected publications** are as follows (See more in my <a href="https://starsuzi.github.io/assets/CV.pdf">CV</a>):
     papers:
-
-      - title: "VideoRAG: Retrieval-Augmented Generation over Video Corpus"
-        link: "https://arxiv.org/pdf/2501.05874"
-        authors: <b>Soyeong Jeong</b>*, Kangsan Kim*, Jinheon Baek*, and Sung Ju Hwang
-        conference: "Under Review"
-
+    
       - title: "Adaptive Multi-Agent Response Refinement in Conversational Systems"
         link: "#"
         authors: <b>Soyeong Jeong</b>, Aparna Elangovan, Emine Yilmaz, and Oleg Rokhlenko
@@ -166,10 +161,15 @@ publications:
         authors: Jinseok Kim, Sukmin Cho, <b>Soyeong Jeong</b>, Sangyeop Kim, and Sungzoon Cho
         conference: "Under Review"
 
+      - title: "VideoRAG: Retrieval-Augmented Generation over Video Corpus"
+        link: "https://arxiv.org/pdf/2501.05874"
+        authors: <b>Soyeong Jeong</b>*, Kangsan Kim*, Jinheon Baek*, and Sung Ju Hwang
+        conference: "Findings of the Association for Computational Linguistics <b>(Findings of ACL), 2025.</b>"
+
       - title: "EXIT: Context-Aware Extractive Compression for Enhancing Retrieval-Augmented Generation"
         link: "https://arxiv.org/pdf/2412.12559"
         authors: Taeho Hwang, Sukmin Cho, <b>Soyeong Jeong</b>, Hoyun Song, SeungYoon Han, and Jong C. Park
-        conference: "Under Review"
+        conference: "Findings of the Association for Computational Linguistics <b>(Findings of ACL), 2025.</b>"
 
       - title: "Lossless Acceleration of Large Language Models with Hierarchical Drafting based on Temporal Locality in Speculative Decoding"
         link: "https://aclanthology.org/2025.findings-naacl.216.pdf"
