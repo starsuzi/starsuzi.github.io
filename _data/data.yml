@@ -77,6 +77,12 @@ experiences:
     title: Experiences
     info:
       - role: Applied Scientist Intern
+        time: Jun 2025 - Sep 2025
+        company: Amazon, Bellevue
+        details: |
+          Will conduct research on LLMs and their general intelligence.
+
+      - role: Applied Scientist Intern
         time: Jul 2024 - Oct 2024
         company: Amazon, Bellevue
         details: |
