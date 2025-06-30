@@ -168,7 +168,7 @@ publications:
         conference: "Under Review"
         
       - title: "CaMMT: Benchmarking Culturally Aware Multimodal Machine Translation"
-        link: "#"
+        link: "https://arxiv.org/abs/2505.24456"
         authors: Emilio Villa-Cueva, Sholpan Bolatzhanova, Diana Turmakhan, Kareem Elzeky, …, Jinheon Baek, …, <b>Soyeong Jeong</b>, …, Injy Hamed, Atnafu Lambebo Tonja, and Thamar Solorio
         conference: "Under Review"
 
