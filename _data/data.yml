@@ -152,11 +152,6 @@ publications:
         authors: Woongyeong Yeo*, Kangsan Kim*, <b>Soyeong Jeong</b>, Jinheon Baek, and Sung Ju Hwang
         conference: "Under Review"
 
-      - title: "Unified Multi-Modal Interleaved Document Representation for Information Retrieval"
-        link: "https://arxiv.org/pdf/2410.02729"
-        authors: Jaewoo Lee*, Joonho Ko*, Jinheon Baek*, <b>Soyeong Jeong</b>, and Sung Ju Hwang
-        conference: "Under Review"
-
       - title: "The RAG Paradox: A Black-Box Attack Exploiting Unintentional Vulnerabilities in Retrieval-Augmented Generation Systems"
         link: "https://arxiv.org/pdf/2502.20995"
         authors: Chanwoo Choi, Jinsoo Kim, Sukmin Cho, <b>Soyeong Jeong</b>, and Buru Chang
@@ -165,6 +160,16 @@ publications:
       - title: "Upcycling Candidate Tokens of Large Language Models for Query Expansion"
         link: "#"
         authors: Jinseok Kim, Sukmin Cho, <b>Soyeong Jeong</b>, Sangyeop Kim, and Sungzoon Cho
+        conference: "Under Review"
+
+      - title: "PRISM: Fine-Grained Paper-to-Paper Retrieval with Multi-Aspect-Aware Query Optimization"
+        link: "#"
+        authors: Sangwoo Park, Jinheon Baek, <b>Soyeong Jeong</b>, and Sung Ju Hwang
+        conference: "Under Review"
+        
+      - title: "CaMMT: Benchmarking Culturally Aware Multimodal Machine Translation"
+        link: "#"
+        authors: Emilio Villa-Cueva, Sholpan Bolatzhanova, Diana Turmakhan, Kareem Elzeky, …, Jinheon Baek, …, <b>Soyeong Jeong</b>, …, Injy Hamed, Atnafu Lambebo Tonja, and Thamar Solorio
         conference: "Under Review"
 
       - title: "VideoRAG: Retrieval-Augmented Generation over Video Corpus"
@@ -176,6 +181,16 @@ publications:
         link: "https://arxiv.org/pdf/2412.12559"
         authors: Taeho Hwang, Sukmin Cho, <b>Soyeong Jeong</b>, Hoyun Song, SeungYoon Han, and Jong C. Park
         conference: "Findings of the Association for Computational Linguistics <b>(Findings of ACL), 2025.</b>"
+
+      - title: "Temporal Information Retrieval via Time-Specifier Model Merging"
+        link: "#"
+        authors: SeungYoon Han, Taeho Hwang, Sukmin Cho, <b>Soyeong Jeong</b>, Hoyun Song, Huije Lee, and Jong C. Park
+        conference: "Towards Knowledgeable Foundation Models Workshop at ACL <b>(KnowFM @ ACL), 2025.</b>"
+
+      - title: "Unified Multi-Modal Interleaved Document Representation for Information Retrieval"
+        link: "https://arxiv.org/pdf/2410.02729"
+        authors: Jaewoo Lee*, Joonho Ko*, Jinheon Baek*, <b>Soyeong Jeong</b>, and Sung Ju Hwang
+        conference: "Vector Databases Workshop at ICML <b>(VecDB @ ICML), 2025.</b>"
 
       - title: "Lossless Acceleration of Large Language Models with Hierarchical Drafting based on Temporal Locality in Speculative Decoding"
         link: "https://aclanthology.org/2025.findings-naacl.216.pdf"
@@ -195,7 +210,7 @@ publications:
       - title: 'DSLR: Document Refinement with Sentence-Level Re-ranking and Reconstruction to Enhance Retrieval-Augmented Generation' 
         link: "https://aclanthology.org/2024.knowledgenlp-1.6.pdf"
         authors: Taeho Hwang, <b>Soyeong Jeong</b>, Sukmin Cho, SeungYoon Han, and Jong C. Park
-        conference: "Knowledge Augmented Methods for NLP at Association for Computational Linguistics <b>(KnowledgeNLP@ACL), 2024.</b>"
+        conference: "Knowledge Augmented Methods for NLP Workshop at ACL <b>(KnowledgeNLP@ACL), 2024.</b>"
         
       - title: 'Ask LLMs Directly, "What shapes your bias?": Measuring Social Bias in Large Language Models' 
         link: "https://arxiv.org/pdf/2406.04064v1"
@@ -245,12 +260,12 @@ publications:
       - title: Query Generation with External Knowledge for Dense Retrieval
         link: "https://aclanthology.org/2022.deelio-1.3.pdf"
         authors: Sukmin Cho, <b>Soyeong Jeong</b>, Wonsuk Yang, Jong C. Park
-        conference: "Deep Learning Inside Out at Association for Computational Linguistics <b>(DeeLIO@ACL), 2022.</b>"
+        conference: "Deep Learning Inside Out Workshop at ACL <b>(DeeLIO@ACL), 2022.</b>"
         
       - title: Unsupervised Document Expansion for Information Retrieval with Stochastic Text Generation
         link: "https://aclanthology.org/2021.sdp-1.2.pdf"
         authors: <b>Soyeong Jeong</b>, Jinheon Baek, ChaeHun Park, Jong C. Park
-        conference: "Scholarly Document Processing at Conference of the North American Chapter of the Association for Computational Linguistics <b>(SDP@NAACL), 2021. (Oral)</b>"
+        conference: "Scholarly Document Processing Workshop at NAACL <b>(SDP@NAACL), 2021. (Oral)</b>"
         
       - title: Development of Speech Emotion Recognition Algorithm using MFCC and Prosody
         link: "https://ieeexplore.ieee.org/document/9051281"
