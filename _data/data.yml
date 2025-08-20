@@ -142,35 +142,35 @@ publications:
         authors: <b>Soyeong Jeong</b>, Aparna Elangovan, Emine Yilmaz, and Oleg Rokhlenko
         conference: "Under Review"
 
-      - title: "Database-Augmented Query Representation for Information Retrieval"
-        link: "https://arxiv.org/pdf/2406.16013"
-        authors: <b>Soyeong Jeong</b>, Jinheon Baek, Sukmin Cho, Sung Ju Hwang, and Jong C. Park
-        conference: "Under Review"
-
       - title: "UniversalRAG: Retrieval-Augmented Generation over Multiple Corpora with Diverse Modalities and Granularities"
         link: "https://arxiv.org/pdf/2504.20734"
         authors: Woongyeong Yeo*, Kangsan Kim*, <b>Soyeong Jeong</b>, Jinheon Baek, and Sung Ju Hwang
         conference: "Under Review"
 
+      - title: "PRISM: Fine-Grained Paper-to-Paper Retrieval with Multi-Aspect-Aware Query Optimization"
+        link: "https://arxiv.org/abs/2507.10057"
+        authors: Sangwoo Park, Jinheon Baek, <b>Soyeong Jeong</b>, and Sung Ju Hwang
+        conference: "Under Review"
+
+      - title: "Database-Augmented Query Representation for Information Retrieval"
+        link: "https://arxiv.org/pdf/2406.16013"
+        authors: <b>Soyeong Jeong</b>, Jinheon Baek, Sukmin Cho, Sung Ju Hwang, and Jong C. Park
+        conference: "Empirical Methods in Natural Language Processing <b>(EMNLP), 2025.</b>"
+
       - title: "The RAG Paradox: A Black-Box Attack Exploiting Unintentional Vulnerabilities in Retrieval-Augmented Generation Systems"
         link: "https://arxiv.org/pdf/2502.20995"
         authors: Chanwoo Choi, Jinsoo Kim, Sukmin Cho, <b>Soyeong Jeong</b>, and Buru Chang
-        conference: "Under Review"
+        conference: "Findings of the Empirical Methods in Natural Language Processing <b>(Findings of EMNLP), 2025.</b>"
+
+      - title: "CaMMT: Benchmarking Culturally Aware Multimodal Machine Translation"
+        link: "https://arxiv.org/abs/2505.24456"
+        authors: Emilio Villa-Cueva, Sholpan Bolatzhanova, Diana Turmakhan, Kareem Elzeky, …, Jinheon Baek, …, <b>Soyeong Jeong</b>, …, Injy Hamed, Atnafu Lambebo Tonja, and Thamar Solorio
+        conference: "Findings of the Empirical Methods in Natural Language Processing <b>(Findings of EMNLP), 2025.</b>"
 
       - title: "Upcycling Candidate Tokens of Large Language Models for Query Expansion"
         link: "#"
         authors: Jinseok Kim, Sukmin Cho, <b>Soyeong Jeong</b>, Sangyeop Kim, and Sungzoon Cho
-        conference: "Under Review"
-
-      - title: "PRISM: Fine-Grained Paper-to-Paper Retrieval with Multi-Aspect-Aware Query Optimization"
-        link: "#"
-        authors: Sangwoo Park, Jinheon Baek, <b>Soyeong Jeong</b>, and Sung Ju Hwang
-        conference: "Under Review"
-        
-      - title: "CaMMT: Benchmarking Culturally Aware Multimodal Machine Translation"
-        link: "https://arxiv.org/abs/2505.24456"
-        authors: Emilio Villa-Cueva, Sholpan Bolatzhanova, Diana Turmakhan, Kareem Elzeky, …, Jinheon Baek, …, <b>Soyeong Jeong</b>, …, Injy Hamed, Atnafu Lambebo Tonja, and Thamar Solorio
-        conference: "Under Review"
+        conference: "The Conference on Information and Knowledge Management <b>(CIKM), 2025.</b>"
 
       - title: "VideoRAG: Retrieval-Augmented Generation over Video Corpus"
         link: "https://arxiv.org/pdf/2501.05874"
@@ -183,7 +183,7 @@ publications:
         conference: "Findings of the Association for Computational Linguistics <b>(Findings of ACL), 2025.</b>"
 
       - title: "Temporal Information Retrieval via Time-Specifier Model Merging"
-        link: "#"
+        link: "https://arxiv.org/abs/2507.06782"
         authors: SeungYoon Han, Taeho Hwang, Sukmin Cho, <b>Soyeong Jeong</b>, Hoyun Song, Huije Lee, and Jong C. Park
         conference: "Towards Knowledgeable Foundation Models Workshop at ACL <b>(KnowFM @ ACL), 2025.</b>"
 
