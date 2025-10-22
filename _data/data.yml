@@ -77,10 +77,10 @@ experiences:
     title: Experiences
     info:
       - role: Applied Scientist Intern
-        time: Jun 2025 - Sep 2025
+        time: Jun 2025 - Oct 2025
         company: Amazon, Bellevue
         details: |
-          Conducting research on LLMs and their general intelligence.
+          Conducted research on Long-Context LMs and their reasoning capabilities.
 
       - role: Applied Scientist Intern
         time: Jul 2024 - Oct 2024
@@ -136,6 +136,11 @@ publications:
     intro: |
       My **selected publications** are as follows (See more in my <a href="https://starsuzi.github.io/assets/CV.pdf">CV</a>):
     papers:
+
+      - title: "When Thoughts Meet Facts: Reusable Reasoning for Long-Context LMs"
+        link: "https://arxiv.org/abs/2510.07499"
+        authors: <b>Soyeong Jeong</b>, Taehee Jung, Sung Ju Hwang, Joo-Kyung Kim, and Dongyeop Kang
+        conference: "Under Review"
     
       - title: "Adaptive Multi-Agent Response Refinement in Conversational Systems"
         link: "#"
@@ -168,7 +173,7 @@ publications:
         conference: "Findings of the Empirical Methods in Natural Language Processing <b>(Findings of EMNLP), 2025.</b>"
 
       - title: "Upcycling Candidate Tokens of Large Language Models for Query Expansion"
-        link: "#"
+        link: "https://arxiv.org/pdf/2509.02377"
         authors: Jinseok Kim, Sukmin Cho, <b>Soyeong Jeong</b>, Sangyeop Kim, and Sungzoon Cho
         conference: "The Conference on Information and Knowledge Management <b>(CIKM), 2025.</b>"
 
@@ -295,5 +300,5 @@ skills:
         level: 60%
 
 footer: >
-    Last updated on Aug 20, 2025 <i class="fas fa-heart"></i> Soyeong Jeong
+    Last updated on Oct 22, 2025 <i class="fas fa-heart"></i> Soyeong Jeong
    # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
