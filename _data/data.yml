@@ -160,7 +160,7 @@ publications:
       - title: "Database-Augmented Query Representation for Information Retrieval"
         link: "https://arxiv.org/pdf/2406.16013"
         authors: <b>Soyeong Jeong</b>, Jinheon Baek, Sukmin Cho, Sung Ju Hwang, and Jong C. Park
-        conference: "Empirical Methods in Natural Language Processing <b>(EMNLP), 2025 (Oral).</b>"
+        conference: "Empirical Methods in Natural Language Processing <b>(EMNLP), 2025. (Oral)</b>"
 
       - title: "The RAG Paradox: A Black-Box Attack Exploiting Unintentional Vulnerabilities in Retrieval-Augmented Generation Systems"
         link: "https://arxiv.org/pdf/2502.20995"
