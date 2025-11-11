@@ -141,11 +141,6 @@ publications:
         link: "https://arxiv.org/abs/2510.07499"
         authors: <b>Soyeong Jeong</b>, Taehee Jung, Sung Ju Hwang, Joo-Kyung Kim, and Dongyeop Kang
         conference: "Under Review"
-    
-      - title: "Adaptive Multi-Agent Response Refinement in Conversational Systems"
-        link: "#"
-        authors: <b>Soyeong Jeong</b>, Aparna Elangovan, Emine Yilmaz, and Oleg Rokhlenko
-        conference: "Under Review"
 
       - title: "UniversalRAG: Retrieval-Augmented Generation over Multiple Corpora with Diverse Modalities and Granularities"
         link: "https://arxiv.org/pdf/2504.20734"
@@ -156,6 +151,11 @@ publications:
         link: "https://arxiv.org/abs/2507.10057"
         authors: Sangwoo Park, Jinheon Baek, <b>Soyeong Jeong</b>, and Sung Ju Hwang
         conference: "Under Review"
+
+      - title: "Adaptive Multi-Agent Response Refinement in Conversational Systems"
+        link: "#"
+        authors: <b>Soyeong Jeong</b>, Aparna Elangovan, Emine Yilmaz, and Oleg Rokhlenko
+        conference: "Linguistic and Cognitive Approaches to Dialog Agents Workshop at AAAI <b>(LaCATODA@NAACL), 2026. (Oral)</b>"
 
       - title: "Database-Augmented Query Representation for Information Retrieval"
         link: "https://arxiv.org/pdf/2406.16013"
