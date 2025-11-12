@@ -153,7 +153,7 @@ publications:
         conference: "Under Review"
 
       - title: "Adaptive Multi-Agent Response Refinement in Conversational Systems"
-        link: "#"
+        link: "https://arxiv.org/abs/2511.08319"
         authors: <b>Soyeong Jeong</b>, Aparna Elangovan, Emine Yilmaz, and Oleg Rokhlenko
         conference: "Linguistic and Cognitive Approaches to Dialog Agents Workshop at AAAI <b>(LaCATODA@NAACL), 2026. (Oral)</b>"
 
