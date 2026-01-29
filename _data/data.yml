@@ -155,7 +155,7 @@ publications:
       - title: "Unified Multi-Modal Interleaved Document Representation for Information Retrieval"
         link: "https://arxiv.org/pdf/2410.02729"
         authors: Jaewoo Lee*, Joonho Ko*, Jinheon Baek*, <b>Soyeong Jeong</b>, and Sung Ju Hwang
-        conference: "Vector Databases Workshop at ICML <b>(VecDB @ ICML), 2025</b>,<br>Findings of the Conference of the European Chapter of the Association for Computational Linguistics <b>(Findings of EACL)</b>, 2026."
+        conference: "Vector Databases Workshop at ICML <b>(VecDB @ ICML), 2025</b>,<br>Findings of the Conference of the European Chapter of the Association for Computational Linguistics <b>(Findings of EACL), 2026.</b>"
 
       - title: "Adaptive Multi-Agent Response Refinement in Conversational Systems"
         link: "https://arxiv.org/abs/2511.08319"
@@ -300,5 +300,5 @@ skills:
         level: 60%
 
 footer: >
-    Last updated on Nov 12, 2025 <i class="fas fa-heart"></i> Soyeong Jeong
+    Last updated on Jan 29, 2026 <i class="fas fa-heart"></i> Soyeong Jeong
    # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
