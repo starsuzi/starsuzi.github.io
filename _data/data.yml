@@ -147,7 +147,7 @@ publications:
         authors: Woongyeong Yeo*, Kangsan Kim*, <b>Soyeong Jeong</b>, Jinheon Baek, and Sung Ju Hwang
         conference: "Under Review"
 
-      - title: "PRISM: Fine-Grained Paper-to-Paper Retrieval with Multi-Aspect-Aware Query Optimization"
+      - title: "Chain of Retrieval: Multi-Aspect Iterative Search Expansion and Post-Order Search Aggregation for Full Paper Retrieval"
         link: "https://arxiv.org/abs/2507.10057"
         authors: Sangwoo Park, Jinheon Baek, <b>Soyeong Jeong</b>, and Sung Ju Hwang
         conference: "Under Review"
