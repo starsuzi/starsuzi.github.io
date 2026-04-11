@@ -137,20 +137,20 @@ publications:
       My **selected publications** are as follows (See more in my <a href="https://starsuzi.github.io/assets/CV.pdf">CV</a>):
     papers:
 
-      - title: "When Thoughts Meet Facts: Reusable Reasoning for Long-Context LMs"
-        link: "https://arxiv.org/abs/2510.07499"
-        authors: <b>Soyeong Jeong</b>, Taehee Jung, Sung Ju Hwang, Joo-Kyung Kim, and Dongyeop Kang
-        conference: "Under Review"
-
-      - title: "UniversalRAG: Retrieval-Augmented Generation over Multiple Corpora with Diverse Modalities and Granularities"
-        link: "https://arxiv.org/pdf/2504.20734"
-        authors: Woongyeong Yeo*, Kangsan Kim*, <b>Soyeong Jeong</b>, Jinheon Baek, and Sung Ju Hwang
-        conference: "Under Review"
-
       - title: "Chain of Retrieval: Multi-Aspect Iterative Search Expansion and Post-Order Search Aggregation for Full Paper Retrieval"
         link: "https://arxiv.org/abs/2507.10057"
         authors: Sangwoo Park, Jinheon Baek, <b>Soyeong Jeong</b>, and Sung Ju Hwang
         conference: "Under Review"
+
+      - title: "When Thoughts Meet Facts: Reusable Reasoning for Long-Context LMs"
+        link: "https://arxiv.org/abs/2510.07499"
+        authors: <b>Soyeong Jeong</b>, Taehee Jung, Sung Ju Hwang, Joo-Kyung Kim, and Dongyeop Kang
+        conference: "Findings of the Association for Computational Linguistics <b>(Findings of ACL), 2026.</b>"
+
+      - title: "UniversalRAG: Retrieval-Augmented Generation over Multiple Corpora with Diverse Modalities and Granularities"
+        link: "https://arxiv.org/pdf/2504.20734"
+        authors: Woongyeong Yeo*, Kangsan Kim*, <b>Soyeong Jeong</b>, Jinheon Baek, and Sung Ju Hwang
+        conference: "Association for Computational Linguistics <b>(ACL), 2026.</b>"
 
       - title: "Unified Multi-Modal Interleaved Document Representation for Information Retrieval"
         link: "https://arxiv.org/pdf/2410.02729"
