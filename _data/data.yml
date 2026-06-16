@@ -137,10 +137,25 @@ publications:
       My **selected publications** are as follows (See more in my <a href="https://starsuzi.github.io/assets/CV.pdf">CV</a>):
     papers:
 
+      - title: "Proactive Multi-Problem Discovery via Template-Guided Iteration"
+        link: "https://arxiv.org/abs/2606.04743"
+        authors: <b>Soyeong Jeong</b>, Jinheon Baek, Minki Kang, and Sung Ju Hwang
+        conference: "arXiv preprint"
+
+      - title: "OmniRetrieval: Unified Retrieval across Heterogeneous Knowledge Sources"
+        link: "https://arxiv.org/abs/2605.29250"
+        authors: Jinheon Baek, <b>Soyeong Jeong</b>, Sangwoo Park, Woongyeong Yeo, Minki Kang, \\ Patara Trirat, Heejun Lee, and Sung Ju Hwang
+        conference: "arXiv preprint"
+
+      - title: "MemRefine: LLM-Guided Compression for Long-Term Agent Memory"
+        link: "https://arxiv.org/abs/2606.13177"
+        authors: Minjae Kim, Jinheon Baek, <b>Soyeong Jeong</b>, and Sung Ju Hwang
+        conference: "arXiv preprint"
+
       - title: "Chain of Retrieval: Multi-Aspect Iterative Search Expansion and Post-Order Search Aggregation for Full Paper Retrieval"
         link: "https://arxiv.org/abs/2507.10057"
         authors: Sangwoo Park, Jinheon Baek, <b>Soyeong Jeong</b>, and Sung Ju Hwang
-        conference: "Under Review"
+        conference: "arXiv preprint"
 
       - title: "When Thoughts Meet Facts: Reusable Reasoning for Long-Context LMs"
         link: "https://arxiv.org/abs/2510.07499"
