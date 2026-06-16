@@ -144,7 +144,7 @@ publications:
       My **selected publications** are as follows (See more in my <a href="https://starsuzi.github.io/assets/CV.pdf">CV</a>):
     papers:
 
-      - title: "Proactive Multi-Problem Discovery via Template-Guided Iteration"
+      - title: "TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration"
         link: "https://arxiv.org/abs/2606.04743"
         authors: <b>Soyeong Jeong</b>, Jinheon Baek, Minki Kang, and Sung Ju Hwang
         conference: "arXiv preprint"
