@@ -144,6 +144,16 @@ publications:
       My **selected publications** are as follows (See more in my <a href="https://starsuzi.github.io/assets/CV.pdf">CV</a>):
     papers:
 
+      - title: "Follow the Entities: A Corpus Map for Agentic Search"
+        link: "https://arxiv.org/abs/2609.37226"
+        authors: <b>Soyeong Jeong</b>, Sujay Kumar Jauhar, Sung Ju Hwang, and Andrew Joohun Nam
+        conference: "arXiv preprint"
+
+      - title: "EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery"
+        link: "https://arxiv.org/abs/2609.40340"
+        authors: Young-Jun Lee, Jinheon Baek, <b>Soyeong Jeong</b>, Minki Kang, Seungyeon Jwa, Jonghyun Choi, Seungho Han, and Dongyeop Kang
+        conference: "arXiv preprint"
+
       - title: "TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration"
         link: "https://arxiv.org/abs/2606.04743"
         authors: <b>Soyeong Jeong</b>, Jinheon Baek, Minki Kang, and Sung Ju Hwang
@@ -322,5 +332,5 @@ skills:
         level: 60%
 
 footer: >
-    Last updated on June 15, 2026 <i class="fas fa-heart"></i> Soyeong Jeong
+    Last updated on October 2, 2026 <i class="fas fa-heart"></i> Soyeong Jeong
    # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
