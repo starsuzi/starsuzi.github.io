@@ -81,7 +81,7 @@ experiences:
         time: Jun 2026 - Sep 2026
         company: Microsoft, Redmond
         details: |
-          Conducting research on group-level memory systems.
+          Conducted research on agentic search for enterprise.
     
       - role: Applied Scientist Intern
         time: Jun 2025 - Oct 2025
@@ -149,14 +149,29 @@ publications:
         authors: <b>Soyeong Jeong</b>, Sujay Kumar Jauhar, Sung Ju Hwang, and Andrew Joohun Nam
         conference: "arXiv preprint"
 
-      - title: "EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery"
-        link: "https://arxiv.org/abs/2609.40340"
-        authors: Young-Jun Lee, Jinheon Baek, <b>Soyeong Jeong</b>, Minki Kang, Seungyeon Jwa, Jonghyun Choi, Seungho Han, and Dongyeop Kang
-        conference: "arXiv preprint"
-
       - title: "TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration"
         link: "https://arxiv.org/abs/2606.04743"
         authors: <b>Soyeong Jeong</b>, Jinheon Baek, Minki Kang, and Sung Ju Hwang
+        conference: "arXiv preprint"
+
+      - title: "Real-Time Indexing from Pixels for Screenshot Retrieval"
+        link: "https://arxiv.org/pdf/2611.18516v1"
+        authors: Dayoon Ko, Yichuan Wang, <b>Soyeong Jeong</b>, Joseph E Gonzalez, Gunhee Kim, Sewon Min
+        conference: "arXiv preprint"
+
+      - title: "Principia: Test-Time Hypotheses to Principle Construction for Scientific Discovery"
+        link: "https://arxiv.org/pdf/2610.32195v1"
+        authors: Dongki Kim, Sangwoo Park, Jinheon Baek, <b>Soyeong Jeong</b>, Sung Ju Hwang
+        conference: "arXiv preprint"
+
+      - title: "RunningTab: Direct Workspace Interaction with Environment-Side Tabs"
+        link: "https://arxiv.org/pdf/2610.10444"
+        authors: Jinheon Baek, <b>Soyeong Jeong</b>, Yumin Choi, Dongsu Han, and Sung Ju Hwang
+        conference: "arXiv preprint"
+
+      - title: "EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery"
+        link: "https://arxiv.org/abs/2609.40340"
+        authors: Young-Jun Lee, Jinheon Baek, <b>Soyeong Jeong</b>, Minki Kang, Seungyeon Jwa, Jonghyun Choi, Seungho Han, and Dongyeop Kang
         conference: "arXiv preprint"
 
       - title: "OmniRetrieval: Unified Retrieval across Heterogeneous Knowledge Sources"
